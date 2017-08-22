@@ -123,5 +123,5 @@ UTILS -> HibernateSessionFactory
 Запуск приложения:
 AppMain
 
-
+http://javastudy.ru/hibernate/hibernate-quick-start/
 ------------------------------------------|
